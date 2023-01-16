@@ -1,6 +1,6 @@
 # RPSLS
 
-RPSLS for Rock Paper Scissors Lizard Spock. At first, struggling hard in order to understand virtual functions in the OOP context, I started a little Rock Paper Scissors game playing against the computer. The first who wins 3 games is the winner. However, when I heard its strange alternative including Lizard and Spock, I said to myself Why not? Done ++
+Well well. RPSLS for Rock Paper Scissors Lizard Spock. At first, struggling hard in order to understand virtual functions in the OOP context, I started a little Rock Paper Scissors game playing against the computer. The first who wins 3 games is the winner. However, when I heard its strange alternative including Lizard and Spock, I said to myself Why not? Done ++
 
 https://www.youtube.com/watch?v=_PUEoDYpUyQ
 
